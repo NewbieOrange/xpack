@@ -20,8 +20,8 @@
 #include <string>
 
 #include "rapidjson_custom.h"
-#include "rapidjson/prettywriter.h"
-#include "rapidjson/stringbuffer.h"
+#include "xrapidjson/prettywriter.h"
+#include "xrapidjson/stringbuffer.h"
 
 #include "xencoder.h"
 
